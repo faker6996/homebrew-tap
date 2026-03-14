@@ -1,8 +1,8 @@
 cask "record-screen" do
-  version "0.1.9"
-  sha256 "e80151d045ae72f02c9fef3a8b7f8b016bab84bb8130090d360bd82b60eeb05e"
+  version "0.1.10"
+  sha256 "a7e970a5dc42f01acc8b65fa2865493a2899785a2caf209705c255b7038833e3"
 
-  url "https://github.com/faker6996/record-screen/releases/download/v0.1.9/Record Screen_0.1.9_universal.dmg"
+  url "https://github.com/faker6996/record-screen/releases/download/v0.1.10/Record Screen_0.1.10_universal.dmg"
   name "Record Screen"
   desc "Desktop screen recorder with launcher, HUD, and shortcut-driven capture"
   homepage "https://github.com/faker6996/record-screen"
