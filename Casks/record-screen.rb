@@ -1,6 +1,6 @@
 cask "record-screen" do
   version "0.1.34"
-  sha256 "c65c0ec0f0a1c23e2ac00ebd5ea9da1e951f8178bb2c0e32f2fe55da17cf4e27"
+  sha256 "5940f11482fbedffdbd280c86b8db8d24e1265bf57e956528c6eaffc5d5189ca"
 
   url "https://github.com/faker6996/record-screen/releases/download/v0.1.34/Record.Screen_0.1.34_universal.dmg"
   name "Record Screen"
