@@ -1,6 +1,6 @@
 cask "ziply" do
   version "0.1.0"
-  sha256 "5dfbd6b58bdeac565e36ce7c889ab8bba0028925b4c2d68f0f03001ba8a78273"
+  sha256 "6c9b9c601437f4c346b42c20301d6668186a8ee958152a6940caa332ffaa6569"
 
   url "https://github.com/faker6996/ziply/releases/download/v0.1.0/Ziply_0.1.0_universal.dmg"
   name "Ziply"
